@@ -10,7 +10,7 @@ body {
   background-color: tomato;
 }
 
-@media screen and (max-width: 1200px) and (min-width: 768px) {
+@media print {
   .container-res {
     background-color: teal;
   }

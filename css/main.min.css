@@ -1,2 +1,2 @@
-body{margin:0}.container-res{width:100%;margin:0 auto;padding-left:15px;padding-right:15px;background-color:tomato}@media screen and (max-width: 1200px) and (min-width: 768px){.container-res{background-color:teal}}@media screen and (orientation: portrait){.container-res{background-color:violet}}
+body{margin:0}.container-res{width:100%;margin:0 auto;padding-left:15px;padding-right:15px;background-color:tomato}@media print{.container-res{background-color:teal}}@media screen and (orientation: portrait){.container-res{background-color:violet}}
 /*# sourceMappingURL=main.min.css.map */
